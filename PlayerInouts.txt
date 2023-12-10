@@ -1,0 +1,3 @@
+a,d or left arrow and right ------- change player direction,
+s or arrow down ------ set block,
+space ----- attack
